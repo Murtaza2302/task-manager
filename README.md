@@ -4,6 +4,12 @@ A simple full-stack Task Management web application that allows users to create,
 
 ---
 
+## 🔗 Live Demo
+
+- **Frontend (Netlify):**  
+  https://task-manager18.netlify.app
+
+
 ## 🚀 Features
 
 - Create tasks with title, description, and status
